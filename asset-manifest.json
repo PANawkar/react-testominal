@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-testominal/static/css/main.10d7f3f3.css",
+    "main.js": "/react-testominal/static/js/main.7a32f9ce.js",
+    "index.html": "/react-testominal/index.html",
+    "main.10d7f3f3.css.map": "/react-testominal/static/css/main.10d7f3f3.css.map",
+    "main.7a32f9ce.js.map": "/react-testominal/static/js/main.7a32f9ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10d7f3f3.css",
+    "static/js/main.7a32f9ce.js"
+  ]
+}
